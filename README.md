@@ -3,6 +3,8 @@
 1-Open your custom compiles.sqf and into !isDedicated section paste:
 
 player_spawn_2 = compile preprocessFileLineNumbers "dayz_code\compile\player_spawn_2.sqf";
+
+
 player_BasicNeeds = compile preprocessFileLineNumbers "scripts\zims\player_BasicNeeds.sqf";
 
 
