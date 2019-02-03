@@ -1,5 +1,9 @@
 # -ZIMS-Force-Players-to-make-piss-and-poop
 
+#PLEASE DONATE 
+https://github.com/juandayz/-ZIMS-Force-Players-to-make-piss-and-poop/blob/master/Donation.md
+
+
 1-Open your custom compiles.sqf and into !isDedicated section paste:
 
 ```ruby
